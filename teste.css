@@ -46,3 +46,13 @@ hr{
     background-color: #1e96e6;
     height: 3px;
 }
+
+.icone-mais{
+    color: #1e96e6;
+    font-size: 2.8em;
+}
+
+.text-nowrap {
+    white-space: nowrap !important;
+}
+
