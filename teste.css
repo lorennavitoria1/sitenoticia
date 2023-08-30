@@ -4,7 +4,7 @@
 }
 
 .custom-header .logo {
-    color: #fff; /* Cor da logo, você pode substituir por uma imagem se preferir */
+    color: #fff; 
     font-size: 24px;
     font-weight: bold;
 }
@@ -18,12 +18,12 @@
     text-decoration: underline;
 }
 
-/* Alinhar os links à direita */
+
 .ml-auto {
     margin-left: auto !important;
 }
 
-/* Centralizar o conteúdo vertical e horizontalmente */
+
 .center-content {
     display: flex;
     flex-direction: column;
@@ -33,7 +33,7 @@
 }
 
 .nav-white-text {
-    color: white !important; /* Definindo a cor do texto como branco */
+    color: white !important; 
 }
 
 hr{
